@@ -3,4 +3,4 @@ sigma.png : Bayes_Metro.py Fourier.py
 	python Bayes_Metro.py
 
 clean:
-	rm sigma.png 
+	rm *.png
